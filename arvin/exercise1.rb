@@ -12,7 +12,7 @@ def capitalize_str(str)
   return str.capitalize
 end
 
-puts "Exercise 1"
+puts "EXERCISE 1"
 puts downcase_str(str)
 puts upcase_str(str)
 puts capitalize_str(str)
