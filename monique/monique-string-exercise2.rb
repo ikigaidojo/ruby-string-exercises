@@ -1,4 +1,9 @@
-my_string = "submarine"
-if my_string.include? "cde"
-   puts "String includes 'cde'"
+print "enter a word"
+str = gets.chomp
+
+def checker(word)
+str_1 = "script"
+word.include? str_1
 end
+
+puts checker(str)
