@@ -7,5 +7,5 @@ def remove_spaces(string)
 end
 
 
-remove_spaces(wide_string)
+remove_spaces(string)
 
