@@ -127,7 +127,7 @@ example
 output
 ```
 	avacript
-	
+```	
 	
 ruby String Exercise 10
 =======================
