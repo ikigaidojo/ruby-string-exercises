@@ -8,10 +8,8 @@ end
 string = message_prompt("Enter string:")
 substring = message_prompt("Enter substring:")
 
-string = "javascript"
-substring = "script"
 
-if string.include?string
+if string.include?substring
   puts ("substring is found!")
 else
   puts ("no substring is found!!!")

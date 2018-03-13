@@ -10,7 +10,7 @@ def check_array(my_array)
     return result
 end
 
-array = message_prompt("Enter array:")
+array = message_prompt("Enter string:")
 result = check_array(array)
 puts "#{result}"
 
